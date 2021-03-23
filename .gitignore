@@ -9,9 +9,11 @@
 /coverage
 
 # next.js
-/.next/
+/.next
 /out/
-/.vscode/
+
+# vscode
+.vscode
 
 # production
 /build
